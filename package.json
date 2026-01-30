@@ -1,7 +1,7 @@
 {
   "name": "blog",
   "version": "1.0.0",
-  "description": "",
+  "description": "Proyecto de Blog personal: Enfoque en arquitectura de archivos y estándares profesionales (BEM + Stylelint). En constante evolución hacia un diseño responsivo.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
